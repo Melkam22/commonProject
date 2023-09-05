@@ -16,3 +16,6 @@
 
 8-  add more text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
 
+9-  to simulate conflict, I create this file on local branch
+
+
