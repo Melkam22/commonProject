@@ -9,3 +9,5 @@
 4-  more content from branchTwo from the terminal.
 
 5-  more content added from gitHub.
+
+6-  add a text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
