@@ -10,4 +10,12 @@
 
 5-  this is a text created on local branch from the terminal to simulate conflict on gitHub.
 
-8-  to simulate conflict, I create this file on local branch
+6-  more content added from gitHub.
+
+7-  add a text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
+
+8-  add more text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
+
+9-  to simulate conflict, I create this file on local branch
+
+
