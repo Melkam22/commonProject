@@ -11,3 +11,5 @@
 5-  this is a text created on local branch from the terminal to simulate conflict on gitHub.
 
 8-  to simulate conflict, I create this file on local branch
+
+10- text added from the branch on terminal.
