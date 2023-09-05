@@ -9,3 +9,8 @@
 4-  more content from branchTwo from the terminal.
 
 5-  this is a text created on local branch from the terminal to simulate conflict on gitHub.
+
+6-  more content added from gitHub.
+
+7-  add a text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
+
