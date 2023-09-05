@@ -14,3 +14,5 @@
 
 7-  add a text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
 
+8-  add more text to simulate a conflict, (continute working on local branch without pull first the remote repo on main branch)
+
