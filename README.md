@@ -7,3 +7,5 @@
 3-  this is a text added from branchTwo on the terminal.
 
 4-  more content from branchTwo from the terminal.
+
+5-  this is a text created on local branch from the terminal to simulate conflict on gitHub.
